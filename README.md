@@ -1,2 +1,3 @@
 # NFT-Preview-Card-Component
-Frontend Mentor Challenge
+
+## Frontend Mentor Challenge
